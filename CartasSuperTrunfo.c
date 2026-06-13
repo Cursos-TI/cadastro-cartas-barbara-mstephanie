@@ -73,9 +73,10 @@ int main() {
   scanf("%f", &areaLetter1);
 
   printf("Digite o PIB da cidade: \n");
+
   scanf("%f", &pibLetter1);
 
-  printf("Digite o número de pontos turísticos da cidade: \n");
+  printf("Digite o número de pontos turísticos da cidade:\n");
   scanf("%d", &touristSpotsLetter1);
 
   printf("##############################################################\n");
